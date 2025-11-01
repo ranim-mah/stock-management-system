@@ -1,0 +1,17 @@
+# Compiled class files 
+*.class 
+Commande ECHO activ‚e.
+# Build directories 
+out/ 
+build/ 
+target/ 
+bin/ 
+Commande ECHO activ‚e.
+# IDE files 
+.idea/ 
+.vscode/ 
+*.iml 
+Commande ECHO activ‚e.
+# System files 
+.DS_Store 
+Thumbs.db 

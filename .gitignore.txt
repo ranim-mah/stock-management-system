@@ -1,0 +1,25 @@
+# Dossiers de compilation et build
+out/
+build/
+target/
+bin/
+*.class
+
+# Fichiers IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.log
+
+# Fichiers assets/images (si ils sont générés)
+*.eps
+*.ai
